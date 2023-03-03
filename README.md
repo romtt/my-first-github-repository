@@ -1,4 +1,6 @@
 # my-first-github-repository
 test repository
 
-README.md was just edited manually
+This line was modified manually during conflict
+
+New line was added locally
